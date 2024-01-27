@@ -84,3 +84,7 @@ li{
     width: 100%;
     padding: 15px;
 }
+
+type{
+    font-weight: bolder;
+}
