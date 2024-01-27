@@ -7,18 +7,17 @@
 header{
     text-align: center;
     padding-top: 10px;
-    padding-bottom: 100px;
     background-color: rgb(224, 224, 224);
-    padding-bottom: 160px;
-}   
+}  
+ 
  h1{
     color: red;
  }
 
 .foto{
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     float: right;
     margin-right: 15%;
     border-style:ridge;
@@ -26,12 +25,10 @@ header{
 }
 
 .endereco{
-    font-size:large;
     font-weight: bolder;
     font-style: italic;
     float: left;
-    margin-left: 15%;
-    padding-top: 40px;
+    margin-left: 10%;
     text-align: left;
 }
 
@@ -44,10 +41,6 @@ h2{
     text-decoration: underline;
     font-size: 30px;
     color: darkblue;
-}
-
-li{
-    margin-block: 7px;
 }
 
 .colunaDireita{
@@ -79,12 +72,7 @@ li{
 .rodape{
     background-color: rgb(151, 150, 148);
     text-align: center;
-    position: fixed;
     bottom: 0%;
     width: 100%;
     padding: 15px;
-}
-
-type{
-    font-weight: bolder;
 }
